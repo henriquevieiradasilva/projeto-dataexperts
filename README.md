@@ -2,7 +2,7 @@
 ## Equipe  
 - *Artur*
 - *Henrique Vieira da Silva*
-- *Luan*
+- *Luan Pascoal do Bem Silva*
 - *Mariana*
 
 ## Projeto Vendas
