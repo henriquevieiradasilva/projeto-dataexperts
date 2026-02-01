@@ -3,7 +3,7 @@
 - *Artur*
 - *Henrique Vieira da Silva*
 - *Luan Pascoal do Bem Silva*
-- *Mariana*
+- *Mariana Seiko Fukuoka*
 
 ## Projeto Vendas
 
