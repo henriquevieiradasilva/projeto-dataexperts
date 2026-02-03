@@ -1,0 +1,1 @@
+tentei até onde deu e o log não quer funcionar por nada, se você der uma olhada eu dei uma mexida legal e teoricamente estava ficando bom, até pq ficaria um script separado generico que funcionaria os logs e ai era só chamar as funcoes e afins mas não deu certo, amanhã continuo de onde parei ou se quiser tentar achar a solução também continuando de onde parei tranquilo também.
