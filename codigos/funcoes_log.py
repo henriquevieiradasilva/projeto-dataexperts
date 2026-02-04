@@ -37,7 +37,7 @@ def create_pre_log(
 ):
     return {
         "log_id": str(uuid.uuid4()),
-        "tabela_log": tabela_log,  # 👈 FUNDAMENTAL
+        "tabela_log": tabela_log,  
         "camada": camada,
         "job_nome": job_nome,
         "acao": acao,

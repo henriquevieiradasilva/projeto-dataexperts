@@ -1,1 +1,23 @@
-tentei até onde deu e o log não quer funcionar por nada, se você der uma olhada eu dei uma mexida legal e teoricamente estava ficando bom, até pq ficaria um script separado generico que funcionaria os logs e ai era só chamar as funcoes e afins mas não deu certo, amanhã continuo de onde parei ou se quiser tentar achar a solução também continuando de onde parei tranquilo também.
+pesquisei, pesquisei e pesquisei e a ultima melhor maneira de organizar o nosso projeto dado o cenário e as variáveis é:
+
+landing_zone
+ \--> Melhor dos mundos = ter arquivos duplicados, ou seja, deve ter o registro dos downloads anteriores
+     
+bronze
+ \--> Melhor dos mundos = ter arquivos duplicados, ou seja, deve ter o registro dos downloads anteriores. Mas também deve implementar colunas auxiliares, como origem e data de origem.
+
+silver
+ \--> Melhor dos mundos = não ter arquivos duplicados, mas sim o SCD Tipo 2 para mostrar as diferenças e afins, mesmo arquivo
+
+gold
+ \--> Melhor dos mundos = como já usamos a tipo 2 na etapa anterior, então só manter, mas tecnicamente seria melhor a SCD Tipo 1 nessa etapa para evitar aglomeração de dados, mas se der para usar a tipo 2 melhor
+
+ resumo disso:
+ Landing_zone e bronze são usadas para ver o passado
+ silver deve entender o passado
+ gold trabalha com o presente
+
+ O que eu fiz até ent
+Basicamente conectei tudo até chegar noq a mariana fez, o dela já está funcionando com oq eu fiz mas eu não alterei muita coisa, to bem cansado e perdi bastante tempo para entender melhor qual estrutura usar pq deu problema no caminho ali. Resumindo: funciona até o Etapa 3, e depois funciona o Etapa 4 - Tentativa com o da Mariana.
+
+tecnicamente já é suficiente pra parte de logs lá, mas seria legal adaptar com as funçoes externas lá e agregar um log mais completo e afins, mas vamos deixar isso para depois de finalizar 
