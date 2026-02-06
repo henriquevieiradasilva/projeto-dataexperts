@@ -47,3 +47,15 @@ A arquitetura segue o padrão Medallion, com as seguintes camadas:
 - Python / PySpark
 - Power BI
 - Git & GitHub
+
+
+rotina 1 
+baixa 
+baixa 
+erro
+
+baixa 
+baixa 
+baixa 
+erro
+
